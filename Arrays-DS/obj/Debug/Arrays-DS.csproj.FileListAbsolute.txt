@@ -1,0 +1,2 @@
+c:\users\kevin\documents\visual studio 2015\Projects\Etnath.HackerRank\Arrays-DS\bin\Debug\Arrays-DS.exe.config
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Etnath.HackerRank\Etnath.HackerRank\Arrays-DS\bin\Debug\Arrays-DS.exe.config
