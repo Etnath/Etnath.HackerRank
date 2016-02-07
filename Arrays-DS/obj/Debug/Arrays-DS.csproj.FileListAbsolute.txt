@@ -1,2 +1,7 @@
 c:\users\kevin\documents\visual studio 2015\Projects\Etnath.HackerRank\Arrays-DS\bin\Debug\Arrays-DS.exe.config
 C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Etnath.HackerRank\Etnath.HackerRank\Arrays-DS\bin\Debug\Arrays-DS.exe.config
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Etnath.HackerRank\Etnath.HackerRank\Arrays-DS\bin\Debug\Arrays-DS.exe
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Etnath.HackerRank\Etnath.HackerRank\Arrays-DS\bin\Debug\Arrays-DS.pdb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Etnath.HackerRank\Etnath.HackerRank\Arrays-DS\obj\Debug\Arrays-DS.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Etnath.HackerRank\Etnath.HackerRank\Arrays-DS\obj\Debug\Arrays-DS.exe
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Etnath.HackerRank\Etnath.HackerRank\Arrays-DS\obj\Debug\Arrays-DS.pdb

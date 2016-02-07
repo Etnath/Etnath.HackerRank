@@ -10,5 +10,13 @@ class Solution
         int n = Convert.ToInt32(Console.ReadLine());
         string[] arr_temp = Console.ReadLine().Split(' ');
         int[] arr = Array.ConvertAll(arr_temp, Int32.Parse);
+
+        IEnumerable<int> enumerable = arr.Reverse();
+        string result = string.Empty;
+        foreach (int i in enumerable)
+        {
+            result += i + " ";
+        }
+        Console.WriteLine(result);
     }
 }
